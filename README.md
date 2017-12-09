@@ -10,3 +10,4 @@ markdown syntax testing
   \text{testing equation:} f \prime (x) = x + \frac{ a }{ a + b }
   \end{multline}
   $$
+<a href="https://www.codecogs.com/eqnedit.php?latex=\sum&space;\int_{\int_{}^{}}^{}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sum&space;\int_{\int_{}^{}}^{}" title="\sum \int_{\int_{}^{}}^{}" /></a>
