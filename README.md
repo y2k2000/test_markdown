@@ -13,4 +13,9 @@ markdown syntax testing
   \end{multline}
   $$
 <a href="https://www.codecogs.com/eqnedit.php?latex=\sum&space;\int_{\int_{}^{}}^{}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sum&space;\int_{\int_{}^{}}^{}" title="\sum \int_{\int_{}^{}}^{}" /></a>
+## Google Chart
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
 <img src="http://chart.googleapis.com/chart?cht=tx&chl= 在此插入Latex公式" style="border:none;">
+
+
+
